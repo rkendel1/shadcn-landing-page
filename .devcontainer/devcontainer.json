@@ -1,0 +1,4 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "name": "ws-4fcf0902f7c12678-adopted"
+}
